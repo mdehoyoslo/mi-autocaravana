@@ -1,1 +1,1 @@
-{"name":"Mi Autocaravana – Kentucky Corral 8","short_name":"Autocaravana","start_url":"./","scope":"./","display":"standalone","background_color":"#f3f5f1","theme_color":"#142b32","lang":"es","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{"name": "Mantenimiento de mi Autocaravana", "short_name": "Autocaravana", "start_url": "./", "display": "standalone", "background_color": "#f4f7fa", "theme_color": "#10253a", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}]}
